@@ -3,8 +3,6 @@
 
 <remote name="ghub"
         fetch="https://github.com" />
-
-<project path="device/asus/X01BD" name="RT1648/android_device_asus_X01BD" remote="ghub" revision="superior" />
 <!-- VT -->
 <project path="vendor/asus" name="Mevadadarshan1997/proprietary_vendor_asus" remote="ghub" revision="13" />
 <!-- CT -->
