@@ -5,13 +5,13 @@
         fetch="https://github.com" />
 
         
-<project path="device/asus/X01BD" name="ManitnjG/havoc11" remote="ghub" revision="cro" />
+<project path="device/asus/X01BD" name="ManitnjG/device" remote="ghub" revision="corvus" />
 
 <!-- VT -->
-<project path="vendor/asus" name="ManitnjG/vendor" remote="ghub" revision="eleven" />
+<project path="vendor/asus" name="SonalSingh18/android_vendor_asus_sdm660" remote="ghub" revision="eleven" />
 <!-- CT -->
-<project path="device/asus/sdm660-common" name="ManitnjG/common" remote="ghub" revision="eleven" />
+<project path="device/asus/sdm660-common" name="SonalSingh18/android_device_asus_sdm660-common" remote="ghub" revision="eleven" />
 <!-- KT -->
-<project path="kernel/asus/sdm660" name="LineageOS/android_kernel_asus_sdm660" remote="ghub" revision="lineage-18.1" />
+<project path="kernel/asus/sdm660" name="SonalSingh18/android_kernel_asus_sdm660" remote="ghub" revision="eleven" />
 
 </manifest>
