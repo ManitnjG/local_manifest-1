@@ -5,9 +5,9 @@
 
         
  <!-- Trees -->
-  <project path="device/asus/X01BD" name="ManitnjG/device" remote="ghub" revision="eleven" clone-depth="1" />
-  <project path="device/asus/sdm660-common" name="ArrowOS-Devices/android_device_asus_sdm660-common" remote="ghub" revision="arrow-11.0" clone-depth="1" />
-  <project path="vendor/asus" name="ArrowOS-Devices/android_vendor_asus_sdm660" remote="ghub" revision="arrow-11.0" clone-depth="1" />
-  <project path="kernel/asus/sdm660" name="ArrowOS-Devices/android_kernel_asus_X01BD" remote="ghub" revision="arrow-11.0" clone-depth="1" />
+  <project path="device/asus/X01BD" name="Havoc-Devices/android_device_asus_X01BD" remote="ghub" revision="eleven" clone-depth="1" />
+  <project path="device/asus/sdm660-common" name="Havoc-Devices/android_device_asus_X01BD-common" remote="ghub" revision="eleven" clone-depth="1" />
+  <project path="vendor/asus" name="Havoc-Devices/android_vendor_asus_X01BD" remote="ghub" revision="eleven" clone-depth="1" />
+  <project path="kernel/asus/sdm660" name="Havoc-Devices/kernel_asus_sdm660" remote="ghub" revision="eleven" clone-depth="1" />
 
 </manifest>
