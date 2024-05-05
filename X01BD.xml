@@ -6,7 +6,7 @@
         
  <!-- Trees -->
   <project path="device/xiaomi/violet" name="ManitnjG/device_xiaomi_viole" remote="ghub" revision="udc" clone-depth="1" />
-  <project path="vendor/xiaomi/violet" name="Evolution-X-Devices/vendor_xiaomi_violet" remote="ghub" revision="udc" clone-depth="1" />
-  <project path="kernel/xiaomi/violet" name="kibria5/android_kernel_xiaomi_violet" remote="ghub" revision="14" clone-depth="1" />
+  <project path="vendor/xiaomi/violet" name="SuperiorOS-Devices/vendor_xiaomi_violet" remote="ghub" revision="fourteen" clone-depth="1" />
+  <project path="kernel/xiaomi/violet" name="Joker-V2/kernel_xiaomi_violet" remote="ghub" revision="fourteen" clone-depth="1" />
 
 </manifest>
