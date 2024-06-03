@@ -11,7 +11,6 @@
   <project path="kernel/oneplus/sm8450-devicetrees" name="android_kernel_oneplus_sm8450-devicetrees" remote="opudon"/>
   <project path="vendor/oneplus/udon" name="vendor_oneplus_udon" remote="mp" />
   <project path="vendor/oneplus/sm8450-common" name="vendor_oneplus_sm8450-common" remote="mp" />
-  <project path="hardware/dolby" name="hardware_dolby" remote="opudon"
-
+ 
 
 </manifest>
