@@ -3,7 +3,7 @@
 
   <remote name="opudon" fetch="https://github.com/opudon" revision="14" />
   <remote name="mp" fetch="https://gitlab.com/maitreyapatni25" revision="14" />
-  <remote name="11r" fetch="https://gitlab.com/oneplus-11r-udon" revision="14" />
+  <remote name="11r" fetch="https://github.com/oneplus-11r-udon" revision="14" />
 
   <project path="device/oneplus/udon" name="android_device_oneplus_udon" remote="opudon"/>
   <project path="device/oneplus/sm8450-common" name="android_device_oneplus_sm8450-common" remote="opudon"/>
