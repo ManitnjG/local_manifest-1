@@ -3,6 +3,9 @@
   <remote name="deep"
           fetch="https://github.com/Deep251004/" />
 
+    <remote name="kr"
+          fetch="https://github.com/amitkumar2007/" />
+
   <project path="device/oneplus/udon"
            name="device_oneplus_udon"
            remote="deep"
@@ -23,4 +26,15 @@
            remote="deep"
     revision="A16" />
 
+  <project path="vendor/oneplus/udon"
+  name="vendor_oneplus_udon"
+     remote="deep"
+    revision="A16" />
+
+  <project path="kerne;/oneplus/sm8450"
+  name="android_kernel_oneplus_sm8450"
+     remote="kr"
+    revision="A16" />
+
+  
 </manifest>
