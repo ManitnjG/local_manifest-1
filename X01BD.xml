@@ -8,19 +8,18 @@
            remote="deep"
            revision="A16" />
 
-  <project path="device/oneplus/sm8450-common"
-           name="android_device_oneplus_sm8450-common"
+  <project path="device/oneplus/sm8475-common"
+           name="android_device_oneplus_sm8475-common"
            remote="deep"
     revision="A16" />
+  
+<project path="proprietary/vendor/oneplus/sm8475-common"
+    name="proprietary_vendor_oneplus_sm8475-common"
+      remote="deep"
+    revision="A16" />
 
-
-  <project path="hardware/oplus"
-           name="hardware_oplus"
-          remote="deep"
-revision="A16" />
-
-  <project path="kernel/oneplus/sm8450"
-           name="android_kernel_oneplus_sm8450"
+  <project path="kernel/oneplus/sm8475"
+           name="android_kernel_oneplus_sm8475"
            remote="deep"
     revision="A16" />
 
