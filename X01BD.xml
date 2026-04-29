@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="op"
-          fetch="https://github.com/github.com/OPLUS-UDON" />
+          fetch="https://github.com/OPLUS-UDON" />
 
 <project path="device/oneplus/udon" name="device_oneplus_udon" remote="op" revision="A16" />
 
